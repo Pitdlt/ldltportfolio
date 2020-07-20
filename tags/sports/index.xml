@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sports on Luis De La Torre</title>
+    <link>https://pitdlt.github.io/ldltportfolio/tags/sports/</link>
+    <description>Recent content in sports on Luis De La Torre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 11:13:32 -0400</lastBuildDate>
+    
+	<atom:link href="https://pitdlt.github.io/ldltportfolio/tags/sports/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is the role of Data Analytics in sports?</title>
+      <link>https://pitdlt.github.io/ldltportfolio/post/chapter-3/</link>
+      <pubDate>Wed, 15 Jul 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://pitdlt.github.io/ldltportfolio/post/chapter-3/</guid>
+      <description>Decisions in sports are not driven by the spirit of a game as one might think. Sports analytics is a growing market that uses statistical tools to make informed decisions on the field and in the office. From recruitment, game play strategy, and player performance, data rules the decisions to find trends in order to successfully win matches.
+In team sports like basketball and soccer, data analytics helps target undervalued players.</description>
+    </item>
+    
+    <item>
+      <title>Premier League’s Top Performer: Data</title>
+      <link>https://pitdlt.github.io/ldltportfolio/post/chapter-2/</link>
+      <pubDate>Wed, 15 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://pitdlt.github.io/ldltportfolio/post/chapter-2/</guid>
+      <description>Unlike basketball, football, and baseball that have several mechanisms at play to better predict a game, soccer has traditionally been known to be an ever changing sport that strays away from any sort of calculated strike to determine the match of a game. Finally, after years of spontaneity and tradition, data analytics has found its way into the hands of the English Premier League.
+Through data-driven analysis, it has changed the way soccer is not just played, but managed.</description>
+    </item>
+    
+  </channel>
+</rss>

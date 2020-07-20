@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Luis De La Torre</title>
+    <link>https://pitdlt.github.io/ldltportfolio/tags/</link>
+    <description>Recent content in Tags on Luis De La Torre</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2020 11:13:32 -0400</lastBuildDate>
+    
+	<atom:link href="https://pitdlt.github.io/ldltportfolio/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>sports</title>
+      <link>https://pitdlt.github.io/ldltportfolio/tags/sports/</link>
+      <pubDate>Wed, 15 Jul 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://pitdlt.github.io/ldltportfolio/tags/sports/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self-improvement</title>
+      <link>https://pitdlt.github.io/ldltportfolio/tags/self-improvement/</link>
+      <pubDate>Wed, 15 Jul 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://pitdlt.github.io/ldltportfolio/tags/self-improvement/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
